@@ -1,0 +1,7 @@
+.body{
+	background-image: linear-gradient(to right, lightgray, #6ecff2, #d11ae6);
+}
+.bg{
+	background-color: red;
+	color: white;
+}
